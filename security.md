@@ -157,4 +157,4 @@ did nothing" when they simply never restarted.
 
 ---
 
-*Call of Duty Warzone · Updated 2026-11-25 · Shared under the MIT License*
+*Call of Duty Warzone · Updated 2026-11-26 · Shared under the MIT License*
